@@ -1,0 +1,11 @@
+C:\Users\INCUBE\source\repos\scale_test\bin\scale_test.dll.config
+C:\Users\INCUBE\source\repos\scale_test\bin\scale_test.dll
+C:\Users\INCUBE\source\repos\scale_test\bin\scale_test.pdb
+C:\Users\INCUBE\source\repos\scale_test\bin\scale_test.xml
+C:\Users\INCUBE\source\repos\scale_test\obj\Debug\scale_test.vbprojAssemblyReference.cache
+C:\Users\INCUBE\source\repos\scale_test\obj\Debug\scale_test.Resources.resources
+C:\Users\INCUBE\source\repos\scale_test\obj\Debug\scale_test.vbproj.GenerateResource.cache
+C:\Users\INCUBE\source\repos\scale_test\obj\Debug\scale_test.vbproj.CoreCompileInputs.cache
+C:\Users\INCUBE\source\repos\scale_test\obj\Debug\scale_test.dll
+C:\Users\INCUBE\source\repos\scale_test\obj\Debug\scale_test.xml
+C:\Users\INCUBE\source\repos\scale_test\obj\Debug\scale_test.pdb
